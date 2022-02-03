@@ -1,0 +1,6 @@
+CHANGELOG
+mitramono Version 1.0.0 
+* Added Khanda  Ta and Abagraha to make Unicode 5.0 compliant 
+* Converted mitra.ttf(0.70) to mitramono.ttf(0.80)
+    * corrected Bengali namespace error
+    * changed font file name to avoid confusion (and possible litigation!) with a nastaliq font of same name
